@@ -14,3 +14,20 @@ DOMAIN-SUFFIX, cm.ad.bilibili.com, reject
 DOMAIN-SUFFIXx, cm.adcommon.bilibili.com, reject
 DOMAIN-SUFFIX, cm.game.bilibili.com, reject
 DOMAIN-SUFFIX, cm.track.biligame.bilibili.com, reject
+
+# > 高德
+DOMAIN-SUFFIX, restapi.amap.com, reject
+DOMAIN-SUFFIX, adiu.amap.com, reject
+DOMAIN-SUFFIX, aboard.apilocate.amap.com, reject
+DOMAIN-SUFFIX, apiinit.amap.com, reject
+DOMAIN-SUFFIX, icloud-amap.com, reject
+DOMAIN-SUFFIX, logs.amap.com, reject
+DOMAIN-SUFFIX, dualstack-logs.amap.com, reject
+DOMAIN-SUFFIX, logs.amap.com, reject
+DOMAIN-SUFFIX, optimus-ads.amap.com, reject
+DOMAIN-SUFFIX, page.amap.com, reject
+DOMAIN-SUFFIX, optimus-ads.amap.com, reject
+DOMAIN-SUFFIX, optimus-ads.amap.com.w.alikunlun.com, reject
+DOMAIN-SUFFIX, shouji.sougou.com, reject
+DOMAIN-SUFFIX, reject
+DOMAIN-SUFFIX, u51.me, reject
