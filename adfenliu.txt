@@ -1,0 +1,8 @@
+# > 哔哩哔哩
+HOST, mall.bilibili.com, REJECT
+HOST, passport.bilibili.com, REJECT
+host-keyword, api.sobot.com, reject
+host-suffix, cm.ad.bilibili.com, reject
+host-suffix, cm.adcommon.bilibili.com, reject
+host-suffix, cm.game.bilibili.com, reject
+host-suffix, cm.track.biligame.bilibili.com, reject
