@@ -81,3 +81,7 @@ hostname = app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.bilia
 ^https:\/\/m5-zb\.amap\.com\/ws\/sharedtrip\/taxi\/order_detail_car_tips\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 
 hostname = m5.amap.com, m5-zb.amap.com, oss.amap.com, sns.amap.com
+# 12306 //ad.12306.cn, mobile.12306.cn
+^https:\/\/ad\.12306\.cn\/ad\/ser\/getAdList$ url script-analyze-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/12306.js
+^https:\/\/mobile\.12306\.cn\/otsmobile\/app\/mgs\/mgw\.htm$ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/header.js
+hostname = ad.12306.cn,mobile.12306.cn
