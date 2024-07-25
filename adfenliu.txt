@@ -7,10 +7,10 @@
 #!date=2024-07-24 21:00:00
 #!support=哔哩哔哩
 # > 哔哩哔哩
-host, mall.bilibili.com, reject
-host, passport.bilibili.com, reject
+DOMAIN-SUFFIX, mall.bilibili.com, reject
+DOMAIN-SUFFIX, passport.bilibili.com, reject
 host-keyword, api.sobot.com, reject
-host-suffix, cm.ad.bilibili.com, reject
-host-suffix, cm.adcommon.bilibili.com, reject
-host-suffix, cm.game.bilibili.com, reject
-host-suffix, cm.track.biligame.bilibili.com, reject
+DOMAIN-SUFFIX, cm.ad.bilibili.com, reject
+DOMAIN-SUFFIXx, cm.adcommon.bilibili.com, reject
+DOMAIN-SUFFIX, cm.game.bilibili.com, reject
+DOMAIN-SUFFIX, cm.track.biligame.bilibili.com, reject
