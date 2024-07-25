@@ -1,3 +1,11 @@
+#!name=ad哔哩哔哩
+#!desc=(R)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装拦截广告才会生效！
+#!author==fmz200
+#!homepage=https://github.com/huopingzi/loon
+#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
+#!raw-url=https://raw.githubusercontent.com/huopingzi/loon/main/adfenliu.txt
+#!date=2024-07-24 21:00:00
+#!support=哔哩哔哩
 # > 哔哩哔哩
 host, mall.bilibili.com, reject
 host, passport.bilibili.com, reject
