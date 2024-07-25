@@ -1,5 +1,12 @@
+#!name=哔哩哔哩
+#!desc=(R)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装拦截广告才会生效！
+#!author=huopingzi
+#!homepage=https://github.com/huopingzi/loon
+#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
+#!raw-url=https://raw.githubusercontent.com/huopingzi/loon/main/bilibili.txt
+#!date=2024-07-24 21:00:00
+#!support=哔哩哔哩
 # > 哔哩哔哩
-
 # hostname = app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net
 hostname = app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net,manga.bilibili.com,app.bilibili.com, api.bilibili.com, api.live.bilibili.com
 # Proto 动态广告,后台播放限制,播放页广告 //app.bilibili.com
